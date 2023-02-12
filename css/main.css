@@ -95,7 +95,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-image: image('images/004.jpg');
+		background-image: url('https://www.flourishaustralia.org.au/sites/default/files/2020-08/dental_health_week.jpg');
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -646,7 +646,7 @@ input, select, textarea {
 
 		.image:before {
 			pointer-events: none;
-			background-image: url("../../images/overlay.png");
+			background-image: url("assets\images\004.jpg");
 			background-color: rgba(19, 21, 25, 0.5);
 			border-radius: 4px;
 			content: '';
